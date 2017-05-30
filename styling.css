@@ -1,0 +1,69 @@
+.intro {
+   padding: 10px 10%;
+}
+p {
+    text-indent: 20px;
+    font-size: 1.3em;
+    color: #211d1d;
+    
+}
+
+#image {
+    margin: 0 auto;
+    display: block;
+    border-radius: 10px;
+}
+
+#img-div  {
+   text-align: center;
+   font-size: 2.0 em;
+}
+
+.article {
+    width: 80%;
+    padding-left: 10%;
+    padding-top: 10px;
+}
+
+h1, .title {
+    text-align: center;
+    color: #000000;
+    
+}
+
+
+.title {
+    font-size: 2em;
+    font-family: "Lobster";
+    
+}
+
+body {
+    background-color: rgba(143, 188, 143, 0.2);
+    font-family: "Droid Serif";  
+}
+
+#footer {
+  padding-top: 10px;
+}
+
+#footer p {
+    text-align: center;
+   
+}
+
+#main {
+    border: 5px solid gray;
+    border-radius: 10px;
+}
+
+#footer a:link {
+    color: #1f961f;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+ 
